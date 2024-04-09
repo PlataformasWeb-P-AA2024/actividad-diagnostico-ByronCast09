@@ -16,6 +16,8 @@ git clean
 ### 5. Ejemplifique el comando de Linux: mkdir
 ### 6. Ejemplifique el comando de Linux: ls
 ### 7. Ejemplifique el comando de Linux: pwd
+![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-ByronCast09/assets/92802841/45aa1e1f-ed27-4a12-8f0a-8870146a34d3)
+
 ### 8. Ejemplifique el comando de Linux: touch
 ### 9. Ejemplifique el comando de Linux: grep
 ### 10. Ejemplifique el comando de Linux: cd
