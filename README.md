@@ -13,16 +13,16 @@ git push
 git clean
 ### 3. Ejemplifique el comando de Linux: mv
 renombrar
-
+https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-ByronCast09/blob/main/imagenes/mv.png?raw=true
 ### 4. Ejemplifique el comando de Linux: cp
 copiar
-
+https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-ByronCast09/blob/main/imagenes/cp.png?raw=true
 ### 5. Ejemplifique el comando de Linux: mkdir
 Crea un directorio o subdirectorio
-
+https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-ByronCast09/blob/main/imagenes/mkdir.png?raw=true
 ### 6. Ejemplifique el comando de Linux: ls
 ver los files
-
+https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-ByronCast09/blob/main/imagenes/ls.png?raw=true
 ### 7. Ejemplifique el comando de Linux: pwd
 ![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-ByronCast09/assets/92802841/45aa1e1f-ed27-4a12-8f0a-8870146a34d3)
 
@@ -30,8 +30,9 @@ ver los files
 ### 9. Ejemplifique el comando de Linux: grep
 ### 10. Ejemplifique el comando de Linux: cd
 cambiar directorio
-
+https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-ByronCast09/blob/main/imagenes/cd.png?raw=true
 ### 11. Ejemplifique el comando de Linux: mv
 ### 12. Ejemplifique el comando de Linux: cat
 concatenar y mostrar el contenido de archivos
+https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-ByronCast09/blob/main/imagenes/cat.png?raw=true
 
