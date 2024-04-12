@@ -36,7 +36,7 @@ ver los files
 
 ### 8. Ejemplifique el comando de Linux: touch
 Crear archivos vacios
-![image] (https://raw.githubusercontent.com/PlataformasWeb-P-AA2024/actividad-diagnostico-ByronCast09/main/imagenes/touch.png)
+![image](https://raw.githubusercontent.com/PlataformasWeb-P-AA2024/actividad-diagnostico-ByronCast09/main/imagenes/touch.png)
 ### 9. Ejemplifique el comando de Linux: grep
 filtrar y eliminar la información
 ![image](https://raw.githubusercontent.com/PlataformasWeb-P-AA2024/actividad-diagnostico-ByronCast09/main/imagenes/grep.png)
