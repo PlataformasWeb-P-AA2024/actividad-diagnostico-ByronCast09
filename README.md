@@ -12,7 +12,7 @@ git commit--
 git push
 git clean
 ### 3. Ejemplifique el comando de Linux: mv
-renombrar
+renombrarr
 
 ![image](https://raw.githubusercontent.com/PlataformasWeb-P-AA2024/actividad-diagnostico-ByronCast09/main/imagenes/mv.png)
 
