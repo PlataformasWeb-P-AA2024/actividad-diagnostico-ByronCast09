@@ -35,7 +35,11 @@ ver los files
 ![image](https://github.com/PlataformasWeb-P-AA2024/actividad-diagnostico-ByronCast09/assets/92802841/45aa1e1f-ed27-4a12-8f0a-8870146a34d3)
 
 ### 8. Ejemplifique el comando de Linux: touch
+Crear archivos vacios
+![image] (https://raw.githubusercontent.com/PlataformasWeb-P-AA2024/actividad-diagnostico-ByronCast09/main/imagenes/touch.png)
 ### 9. Ejemplifique el comando de Linux: grep
+filtrar y eliminar la información
+![image](https://raw.githubusercontent.com/PlataformasWeb-P-AA2024/actividad-diagnostico-ByronCast09/main/imagenes/grep.png)
 ### 10. Ejemplifique el comando de Linux: cd
 cambiar directorio
 
