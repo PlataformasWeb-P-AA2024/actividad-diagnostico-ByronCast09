@@ -51,3 +51,4 @@ concatenar y mostrar el contenido de archivos
 
 ![image](https://raw.githubusercontent.com/PlataformasWeb-P-AA2024/actividad-diagnostico-ByronCast09/main/imagenes/cat.png)
 
+Practica 2 cambio desde linux
